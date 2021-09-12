@@ -1,0 +1,8 @@
+TYPE=pvm
+NUM=8
+EXCL=0
+GROUP=400%
+EXEC="seriesmaster 6"
+IN=seriesslave
+IN=seriesmaster
+
